@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+    height: 100vh;
+}
+.navbar-style {
+    box-shadow: 0 5px 10px #efefef;
+    text-transform: uppercase;
+}
+.logo {
+    font-size: 16px;
+    color: #333;
+}
+.icon-bar {
+    background: darkorange;
+    text-align: left;
+}
+li a {
+    color: #333;
+}
+#form_container
+{
+	padding:15px 15px;
+	margin-top:15px;
+	background: darkorange;
+}
+body
+{
+	background-color: white;
+	background-size: cover;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 1%;
+    background-color:darkorange;
+    color: white;
+    text-align: center;
+}
